@@ -3,7 +3,8 @@
 I’m thrilled to share the journey of my Summer 2025 internship at **MaMo TechnoLabs**, where I had the incredible opportunity to work as an AI/ML Developer Intern. This experience was a deep dive into the practical world of software engineering, allowing me to build a complete, AI-powered web application from concept to completion. This blog documents my weekly progress, challenges, and the key skills I developed along the way.
 
 
-*(This image showcases the dashboard of the AI Suite, providing a central hub for all the tools.)*
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/f65dac1d-5bc6-49cf-b373-b0c2920f35c4" />
+
 
 ### The Project: An All-in-One AI Productivity Suite
 
@@ -18,8 +19,8 @@ The goal of my internship project was to solve a common modern problem: the need
 
 My 8-week journey was structured to cover the entire development lifecycle, from planning and architecture to deployment and testing.
 
-[205]
-*(A visual timeline of the 8-week internship.)*
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/ac72c846-1437-4e30-95af-bb333de19050" />
+
 
 ---
 
@@ -35,7 +36,8 @@ With a clear plan, I spent the next two weeks building the application's skeleto
 This week marked a major milestone: integrating our first AI feature. I focused on the **OCR Scanner**, using the **Tesseract OCR engine**. A key part of this process was building an image preprocessing pipeline with **OpenCV** to automatically clean and enhance uploaded images, which dramatically improved the accuracy of the extracted text.
 
 
-*(An example of the OCR tool extracting text from a document.)*
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/70e33ad0-da9a-475f-a84a-96bcaf14f989" />
+
 
 #### 🗓️ **Week 5: Bringing the Resume Builder to Life (June 25 - July 1)**
 Next, I implemented the **Resume Builder**. This involved using the powerful **ReportLab** library in Python to programmatically create PDFs from structured JSON data sent from a frontend form. The result was a clean, professional, and instantly downloadable resume.
@@ -47,7 +49,8 @@ This week, I moved on to the **Text Summarizer**. I used a state-of-the-art **BA
 In the penultimate week, I integrated the **Image Captioning** feature. This tool required combining a **Vision Transformer (ViT)** to "see" an image with a **GPT-2** model to "describe" it in natural language, a fascinating look into multi-modal AI.
 
 
-*(An example of the Image Captioning tool generating a description for an image.)*
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/c7e1cf4f-7e57-4f34-bdf0-a839bb816ee1" />
+
 
 #### 🗓️ **Week 8: Testing, Feedback, and Finalization (July 16 - July 22)**
 The final week was dedicated to polishing and testing. I conducted rigorous testing on all four features, using a variety of inputs to identify limitations. I also gathered invaluable feedback from my peers and mentors, who praised the app's convenience and clean UI, while also suggesting future enhancements like more resume templates and batch file processing.
