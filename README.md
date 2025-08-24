@@ -1,4 +1,4 @@
-# My 8-Week AI/ML Internship at MaMo TechnoLabs: Building a Full-Stack AI Productivity Suite
+# Internship_2025
 
 ## 📅 May 28th, 2025
 
