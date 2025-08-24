@@ -20,8 +20,7 @@ The first week was dedicated to laying a solid foundation. I worked closely with
 - **System Architecture:** We decided on a modern three-tier client-server model, which would keep the frontend, backend, and AI services neatly separated and scalable.
 - **Environment Setup:** I set up my full-stack development environment using Python, Flask for the backend, React for the frontend, and established our version control workflow with Git and GitHub.
 
-<img src="<img width="950" height="386" alt="image" src="https://github.com/user-attachments/assets/6d7ea041-70ca-4f4b-850e-6bf5ce75aa83" />
-" width="600" alt="System Architecture" />
+<img width="500" height="386" alt="image" src="https://github.com/user-attachments/assets/6d7ea041-70ca-4f4b-850e-6bf5ce75aa83" />
 
 ### 🗓️ Week 2-3: Backend and Frontend Development (June 4 - June 17)
 With a clear plan, I spent the next two weeks building the application's skeleton.
@@ -31,8 +30,7 @@ With a clear plan, I spent the next two weeks building the application's skeleto
 ### 🗓️ Week 4: Integrating the First AI Tool - OCR (June 18 - June 24)
 This week marked a major milestone: integrating our first AI feature. I focused on the **OCR Scanner**, using the **Tesseract OCR engine**. A key part of this process was building an image preprocessing pipeline with **OpenCV** to automatically clean and enhance uploaded images, which dramatically improved the accuracy of the extracted text.
 
-<img src="<img width="955" height="637" alt="image" src="https://github.com/user-attachments/assets/1c2933f3-a314-477b-a94b-bee715400283" />
-" width="600" alt="OCR Example" />
+<img width="500" height="637" alt="image" src="https://github.com/user-attachments/assets/1c2933f3-a314-477b-a94b-bee715400283" />
 
 ### 🗓️ Week 5: Bringing the Resume Builder to Life (June 25 - July 1)
 Next, I implemented the **Resume Builder**. This involved using the powerful **ReportLab** library in Python to programmatically create PDFs from structured JSON data sent from a frontend form.
@@ -40,8 +38,7 @@ Next, I implemented the **Resume Builder**. This involved using the powerful **R
 ### 🗓️ Week 6: Tackling Advanced NLP - The Text Summarizer (July 2 - July 8)
 This week, I moved on to the **Text Summarizer**. I used a state-of-the-art **BART model** from the Hugging Face `transformers` library. A critical challenge was implementing a "warm-up" strategy, where all AI models are loaded once when the server starts to ensure fast, responsive API calls.
 
-<img src="<img width="489" height="489" alt="image" src="https://github.com/user-attachments/assets/c1619bb1-3899-4a74-a7d5-82ab077ceea9" />
-" width="600" alt="Summarizer Example" />
+<img width="489" height="489" alt="image" src="https://github.com/user-attachments/assets/c1619bb1-3899-4a74-a7d5-82ab077ceea9" />
 
 ### 🗓️ Week 7: Fusing Vision and Language - Image Captioning (July 9 - July 15)
 In the penultimate week, I integrated the **Image Captioning** feature. This tool required combining a **Vision Transformer (ViT)** to "see" the image with a **GPT-2** model to "describe" it in natural language.
